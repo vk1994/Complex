@@ -28,12 +28,8 @@ int main(){
   Complex c1("3.5+5i");
   Complex c2("10+7i");
   
-  cout<<c1+c2<<'\n';
+  cout<<c1+c2<<'\n'; //13.5+12i
   
   return 0;
 }
-```
-output
-```
-13.5+12i
 ```
